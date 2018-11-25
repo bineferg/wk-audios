@@ -1,5 +1,5 @@
 CC=g++
-CFLAGS=-c -Wall -Iinclude
+CFLAGS=-c -Wall -Iinclude -std=c++14
 LIBS=-lportaudio -lportmidi
 BUILD_FOLDER=build
 
@@ -25,3 +25,6 @@ midi_message: src/midi_message.cpp
 
 midi_manager: src/midi_manager.cpp
 	$(CC) $(CFLAGS) -o $(BUILD_FOLDER)/midi_manager.o -g src/midi_manager.cpp
+
+run:
+	./synth

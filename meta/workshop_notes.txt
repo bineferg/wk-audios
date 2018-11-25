@@ -1,0 +1,26 @@
+sage jenson + eva fineberg
+
+* not advertised as a coding workshop
+* blanket function that generates audio from any file (image, etc.)
+* limit to words (fluxus scoring, poetry, etc.)
+* visual representations of algorithmic metaprocess (how to makefile, etc.)
+* poetic composition side, set of instructions about how you want to write
+* coding itself is set of strict rules with great freedom possible from within them
+* interface is simple, but mental model is complex as you want it to be
+
+audience:
+* experimental word and composer folks
+
+workshop prep:
+* design considerations:
+    - what input to allow (e.g. images, microphone, midi, arduino, etc.)
+    - how to generate sound from the input
+    - stations idea (how to we interact with non-computer materiality)
+    - words map to aesthetic sounds that we build from simple components as example
+    - immediately able to make something
+
+rule assignment
+    - names for sounds
+    - microphone in
+
+* code components to write
